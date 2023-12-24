@@ -233,7 +233,7 @@ const Landing = () => {
       />
 
       <a
-        href="https://github.com/ainuddin11/codeEditor-with-react"
+        href="https://github.com/ainuddin11/OnlieCodeEditor"
         title="Fork me on GitHub"
         class="github-corner"
         target="_blank"
