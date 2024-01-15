@@ -18,7 +18,7 @@
 - Add the API Keys in the `.env` file
 - `npm start` to run the project.
 
-TODO:
+Next Work:
 
 1. Add more languages [DONE]
 2. User login, authentication and registration (Firebase Auth)
